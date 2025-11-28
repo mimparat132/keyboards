@@ -37,6 +37,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DIODE_DIRECTION ROW2COL
 
 // trackball config
+//
+#define NO_ACTION_ONESHOT
+#define NO_ACTION_TAPPING
 
 #define SPLIT_POINTING_ENABLE
 #define ROTATIONAL_TRANSFORM_ANGLE  -25
